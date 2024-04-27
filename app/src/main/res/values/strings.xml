@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHubClientApp</string>
+    <string name="search_hint">type GitHub username…</string>
+    <string name="downloads">Downloads</string>
+    <string name="no_internet_warning">No internet connection. Please check you connectivity and restart app again</string>
+    <string name="download_is_finished">Download is finished</string>
+    <string name="download_is_failed">Download is failed</string>
+    <string name="repository_is_already_downloaded">Repository is already downloaded</string>
+    <string name="downloadind_is_already_started">Downloadind is already started</string>
+</resources>
